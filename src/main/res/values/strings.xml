@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Welcome to RemindMe</string>
+    <string name="sBtn">Start</string>
+    <string name="welcome">Today Works</string>
+    <string name="add">Add Task</string>
+    <string name="title">Title</string>
+    <string name="dis">Description</string>
+    <string name="date">Date</string>
+    <string name="newT">New Task</string>
+    <string name="enterT">Enter the Task Title</string>
+    <string name="enterD">Enter the Task Description</string>
+    <string name="save">Save Task</string>
+    <string name="updateT">Update Task</string>
+    <string name="update">Update Task</string>
+    <string name="load">Loading</string>
+    <string name="search">Enter Search</string>
+    <string name="des">Your ultimate task management app designed to help you stay organized and on track.Manage your tasks efficiently,and achieve your goals with ease. Let`s get things done!</string>
+</resources>
