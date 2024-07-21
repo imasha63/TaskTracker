@@ -38,7 +38,10 @@ Task Trackr features an intuitive user interface designed for simplicity and eas
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/6ae1417e-d0f1-4422-8776-9a9484557408" alt = "" height="600px" width="300px"/>
+  <img src = "https://github.com/user-attachments/assets/628ea612-47cb-4a30-9d8a-f47b48ac0aa3" alt = "" height="600px" width="300px"/>
+</div>
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/628ea612-47cb-4a30-9d8a-f47b48ac0aa3" alt = "" height="600px" width="300px"/>
 </div>
 <br/>
 
